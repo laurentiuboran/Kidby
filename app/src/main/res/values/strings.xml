@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kidby</string>
+    <string name="game_activity">Game Activity</string>
+    <string name="main_menu">Kidby</string>
+    <string name="puzzle_game">Puzzle Game Activity</string>
+    <string name="puzzle_activity">Puzzle Activity</string>
+</resources>
